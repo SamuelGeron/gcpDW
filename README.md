@@ -39,6 +39,9 @@ You may access the data warehouse in Big Query through the following link:
 ## Data Model View
 ![alt text](https://github.com/SamuelGeron/gcpDW/blob/main/img/DW%20-%20Data%20Model.PNG?raw=true)
 
+### Calculated Columns created to support the measures
+Some calculated columns were created in power bi in order to support the measures
+![alt text](https://github.com/SamuelGeron/gcpDW/blob/main/img/CalculatedColums.PNG?raw=true)
 
 ## Data Visualization
 You can access the report through the link below:
