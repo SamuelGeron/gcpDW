@@ -16,8 +16,6 @@ from google.cloud import bigquery
 project_root = os.path.dirname(os.path.abspath(__file__))
 gcp_credentials = project_root + "/auth/data-lake-294001-13757a51dc09.json"
 
-print(gcp_credentials)
-
 # handle certificate verification and SSL warnings
 # https://urllib3.readthedocs.io/en/latest/user-guide.html#ssl
 http = urllib3.PoolManager(
