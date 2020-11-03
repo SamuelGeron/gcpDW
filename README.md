@@ -59,7 +59,6 @@ First Page:
 Second Page:
 ![Preview](https://github.com/SamuelGeron/gcpDW/blob/main/img/Report%20-%20All%20Measures.PNG?raw=true)
 
-The re
 
 <!-- CONTACT -->
 ## Contact
