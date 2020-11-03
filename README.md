@@ -51,7 +51,15 @@ Some calculated columns were created in power bi in order to support the measure
 ## Data Visualization
 You can access the report through the link below:
 [SaaS - Customer Payment Analysis](https://app.powerbi.com/view?r=eyJrIjoiNjMwM2JlYjktZmEyMC00NjZkLTkyMjQtYjFmY2VlOTRlNDI5IiwidCI6ImU1OTFmYzZlLWM0NWMtNDhjNS1hNDAzLTVlYTU5MjNlM2E1NCIsImMiOjR9)
+
+The Report has 2 pages, the first one is an overview of the business and the second one has detailed information including all measures created for this report.
+First Page:
 ![Preview](https://github.com/SamuelGeron/gcpDW/blob/main/img/Data%20Visualization.PNG?raw=true)
+
+Second Page:
+![Preview](https://github.com/SamuelGeron/gcpDW/blob/main/img/Report%20-%20All%20Measures.PNG?raw=true)
+
+The re
 
 <!-- CONTACT -->
 ## Contact
