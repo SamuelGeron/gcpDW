@@ -15,7 +15,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Data Warehouse](#data-warehouse)
-* [New Architecture Proposal](#new-arquitecture-proposal)
+* [New Architecture Proposal](#new-architecture-proposal)
 * [Data Model View](#data-model-view)
 * [Data Visualization](#data-visualization)
 * [Contact](#contact)
