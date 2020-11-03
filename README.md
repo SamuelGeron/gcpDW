@@ -15,6 +15,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Data Warehouse](#data-warehouse)
+* [New Architecture Proposal](#new-arquitecture-proposal)
 * [Data Model View](#data-model-view)
 * [Data Visualization](#data-visualization)
 * [Contact](#contact)
@@ -35,6 +36,10 @@ These are the main softwares used to develop this project:
 ## Data Warehouse
 You may access the data warehouse in Big Query through the following link:
 [Google Big Query](https://console.cloud.google.com/bigquery?project=animated-falcon-292800)
+
+## New Architecture Proposal
+To continuosly improve the architecture this is the latest proposal for the architecture considering GCP resources (ps:I'm currently working on the scripts)
+![alt text](https://github.com/SamuelGeron/gcpDW/blob/main/img/New%20DW%20-%20Architecture%20Proposal.png?raw=true)
 
 ## Data Model View
 ![alt text](https://github.com/SamuelGeron/gcpDW/blob/main/img/DW%20-%20Data%20Model.PNG?raw=true)
